@@ -1,5 +1,16 @@
-# ⚡ EDC Power Supply Final Project  
+#  EDC Power Supply Final Project v1.3.3
 Self-explanatory repository — cheers!
+Hint: SVG can be zoom
+
+---
+
+## Schematics / Circuit Diagram
+![Schematics](Plot/EDC_FINAL_PROJECT-Schematic.svg) 
+
+---
+
+## Power Supply Legend
+![Schematics](Plot/Legend_A4.svg) 
 
 ---
 
@@ -11,11 +22,11 @@ Self-explanatory repository — cheers!
 
 ---
 
-## Schematics   
-![Schematics](Plot/EDC_FINAL_PROJECT-Schematic.svg) 
+## PCB Layout  
+![PCB Layout](Plot/EDC_FINAL_PROJECT-PCB.png)
 
 ---
 
-## PCB Layout  
-![PCB Layout](Plot/EDC_FINAL_PROJECT-PCB.png) 
+## PCB Layout
+![PCB Layout](Plot/EDC_FINAL_PROJECT_Front_Mirror.svg) 
 
